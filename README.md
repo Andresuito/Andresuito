@@ -3,7 +3,7 @@
 </div>  
 
  
-### <div align="center">I'm Andresuito and I'm currently studying web application development. I know some programming languages and I am expanding my knowledge about them... Mainly what I'm going to publish on Github are projects</div>  
+### <div align="center">I'm Andrés and I'm currently studying web application development. I know some programming languages and I am expanding my knowledge about them... Mainly what I'm going to publish on Github are projects</div>  
 <br>
 
 - 🔭 I'm currently working on different projects of my own.
